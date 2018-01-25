@@ -14,5 +14,6 @@ This function requires other attached matlab functions:
 This function also requires all functions contained in the yin package that can be downloaded from http://audition.ens.fr/adc/sw/yin.zip. Yin is a popular F0 estimation algorithm developed by Alain de Cheveigne and Hideki Kawahara. Their paper on yin, published in JASA (2002), can be downloaded here: audition.ens.fr/adc/pdf/2002_JASA_YIN.pdf
 
 NOTE: After downloading the yin package from the url provided above, unzip and add a path to the yin folder and all of its    contents.   
-   
-   
+
+When you run AcoustiOnsetsNormAmp, you will be prompted to select the audio files you wish to analyze.  You can select one file or multiple files for batch processing.  
+ 
