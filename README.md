@@ -1,5 +1,5 @@
 # Onset_Finder
-AcousticOnsetsNormAmp is a Matlab function for finding acoustic onsets in an audio file
+AcousticOnsetsNormAmp.m is a Matlab function for finding acoustic onsets in an audio file
 
 Benjamin H. Zobel - 01-20-2018
 Neurocognition and Perception Laboratory
