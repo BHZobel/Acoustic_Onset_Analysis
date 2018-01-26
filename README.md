@@ -16,7 +16,7 @@ Instructions:
 6. A tab-delimited text file will be printed containing the analysis of acoustic onsets
 
 NOTES, CITATIONS, AND COPYRIGHT NOTICE FOR YIN:
-The yin folder contained here was downloaded from http://audition.ens.fr/adc/sw/yin.zip. Yin is a popular F0 estimation algorithm developed by Alain de Cheveigne. The paper on yin, published in JASA (2002), can be downloaded here: http://audition.ens.fr/adc/pdf/2002_JASA_YIN.pdf.
+The yin package contained here was downloaded from http://audition.ens.fr/adc/sw/yin.zip. Yin is a popular F0 estimation algorithm developed by Alain de Cheveigne. The paper on yin, published in JASA (2002), can be downloaded here: http://audition.ens.fr/adc/pdf/2002_JASA_YIN.pdf.
 
 See 'yin.html' for more info.
 Version 28 July 2003.
