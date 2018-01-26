@@ -1,9 +1,9 @@
 # Acoustic_Onset_Analysis
 AcousticOnsetAnalysis.m is a Matlab function for finding acoustic onsets in an audio file or group of audio files
 
-Benjamin H. Zobel - 01-20-2018
-Neurocognition and Perception Laboratory
-Department of Psychological and Brain Sciences
+Benjamin H. Zobel - 01-20-2018,
+Neurocognition and Perception Laboratory,
+Department of Psychological and Brain Sciences,
 University of Massachusetts Amherst
 
 Instructions: 
