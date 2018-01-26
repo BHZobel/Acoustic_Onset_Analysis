@@ -6,14 +6,38 @@ Neurocognition and Perception Laboratory
 Department of Psychological and Brain Sciences
 University of Massachusetts Amherst
 
-This function requires other attached matlab functions: 
-1. amp2dBV.m
-2. PrintOnsetInfo.m
-3. YinBest.m
+Instructions: 
+1. Download all functions and folders contained in this package (AcousticOnsetsNormAmp.m, amp2dBV.m, YinBest.m, Yin folder) 
+2. Make sure Matlab can find all functions contained in this package
+3. Run AcousticOnsetsNormAmp.m
+4. Follow the prompts. You will be prompted to select the audio files you wish to analyze. You can select one file or multiple    files for batch processing.
+5. Wait for proccessing
+6. A tab-delimited text file will be printed containing the analysis of acoustic onsets
 
-This function also requires all functions contained in the yin package that can be downloaded from http://audition.ens.fr/adc/sw/yin.zip. Yin is a popular F0 estimation algorithm developed by Alain de Cheveigne and Hideki Kawahara. Their paper on yin, published in JASA (2002), can be downloaded here: audition.ens.fr/adc/pdf/2002_JASA_YIN.pdf
 
-NOTE: After downloading the yin package from the url provided above, unzip and add a path to the yin folder and all of its    contents.   
+NOTES, CITATIONS, AND COPYRIGHT NOTICE FOR YIN:
+The yin folder contained here was downloaded from http://audition.ens.fr/adc/sw/yin.zip. Yin is a popular F0 estimation algorithm developed by Alain de Cheveigne. The paper on yin, published in JASA (2002), can be downloaded here: audition.ens.fr/adc/pdf/2002_JASA_YIN.pdf
 
-When you run AcoustiOnsetsNormAmp, you will be prompted to select the audio files you wish to analyze.  You can select one file or multiple files for batch processing.  
+See 'yin.html' for more info.
+Version 28 July 2003.
+
+Alain de Cheveigné, CNRS/Ircam, 2002.
+Copyright (c) 2002 Centre National de la Recherche Scientifique.
+
+Permission to use, copy, modify, and distribute this software without 
+fee is hereby granted FOR RESEARCH PURPOSES only, provided that this
+copyright notice appears in all copies and in all supporting 
+documentation, and that the software is not redistributed for any 
+fee (except for a nominal shipping charge). 
+
+For any other uses of this software, in original or modified form, 
+including but not limited to consulting, production or distribution
+in whole or in part, specific prior permission must be obtained from CNRS.
+Algorithms implemented by this software may be claimed by patents owned 
+by CNRS, France Telecom, Ircam or others.
+
+The CNRS makes no representations about the suitability of this 
+software for any purpose.  It is provided "as is" without express
+or implied warranty.
+
  
