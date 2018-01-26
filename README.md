@@ -1,5 +1,5 @@
 # Onset_Finder
-AcousticOnsetsNormAmp.m is a Matlab function for finding acoustic onsets in an audio file or group of audio files
+AcousticOnsetAnalysis.m is a Matlab function for finding acoustic onsets in an audio file or group of audio files
 
 Benjamin H. Zobel - 01-20-2018
 Neurocognition and Perception Laboratory
@@ -7,7 +7,7 @@ Department of Psychological and Brain Sciences
 University of Massachusetts Amherst
 
 Instructions: 
-1. Download all files contained in this package (AcousticOnsetsNormAmp.m, amp2dBV.m, PrintOnsetInfo.m, YinBest.m, yin by Alain de Cheveigne.zip) 
+1. Download all files contained in this package (AcousticOnsetAnalysis.m, amp2dBV.m, PrintOnsetInfo.m, YinBest.m, yin by Alain de Cheveigne.zip) 
 2. Unzip 'yin by Alain de Cheveigne.zip' containing all of the required yin functions needed for F0 analysis
 3. Make sure Matlab can find all functions contained in this package
 3. Run AcousticOnsetsNormAmp.m
@@ -15,6 +15,7 @@ Instructions:
 5. Wait for proccessing
 6. A tab-delimited text file will be printed containing the analysis of acoustic onsets
 
+-----------------------------------------------------------------------------------------------------------
 NOTES, CITATIONS, AND COPYRIGHT NOTICE FOR YIN:
 The yin package contained here was downloaded from http://audition.ens.fr/adc/sw/yin.zip. Yin is a popular F0 estimation algorithm developed by Alain de Cheveigne. The paper on yin, published in JASA (2002), can be downloaded here: http://audition.ens.fr/adc/pdf/2002_JASA_YIN.pdf.
 
@@ -39,5 +40,5 @@ by CNRS, France Telecom, Ircam or others.
 The CNRS makes no representations about the suitability of this 
 software for any purpose.  It is provided "as is" without express
 or implied warranty.
-
+-----------------------------------------------------------------------------------------------------------
  
