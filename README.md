@@ -7,8 +7,9 @@ Department of Psychological and Brain Sciences
 University of Massachusetts Amherst
 
 Instructions: 
-1. Download all functions and folders contained in this package (AcousticOnsetsNormAmp.m, amp2dBV.m, YinBest.m, Yin folder) 
-2. Make sure Matlab can find all functions contained in this package
+1. Download all files contained in this package (AcousticOnsetsNormAmp.m, amp2dBV.m, PrintOnsetInfo.m, YinBest.m, yin by Alain de Cheveigne.zip) 
+2. Unzip 'yin by Alain de Cheveigne.zip' containing all of the required yin functions needed for F0 analysis
+3. Make sure Matlab can find all functions contained in this package
 3. Run AcousticOnsetsNormAmp.m
 4. Follow the prompts. You will be prompted to select the audio files you wish to analyze. You can select one file or multiple files for batch processing.
 5. Wait for proccessing
