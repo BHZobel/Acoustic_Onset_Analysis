@@ -36,12 +36,10 @@ including but not limited to consulting, production or distribution
 in whole or in part, specific prior permission must be obtained from CNRS.
 Algorithms implemented by this software may be claimed by patents owned 
 by CNRS, France Telecom, Ircam or others.
-The CNRS makes no representations about the suitability of this 
-software for any purpose.  It is provided "as is" without express
-or implied warranty.
 
 The CNRS makes no representations about the suitability of this 
 software for any purpose.  It is provided "as is" without express
 or implied warranty.
+
 -----------------------------------------------------------------------------------------------------------
  
