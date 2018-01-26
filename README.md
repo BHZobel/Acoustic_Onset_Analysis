@@ -10,10 +10,9 @@ Instructions:
 1. Download all functions and folders contained in this package (AcousticOnsetsNormAmp.m, amp2dBV.m, YinBest.m, Yin folder) 
 2. Make sure Matlab can find all functions contained in this package
 3. Run AcousticOnsetsNormAmp.m
-4. Follow the prompts. You will be prompted to select the audio files you wish to analyze. You can select one file or multiple    files for batch processing.
+4. Follow the prompts. You will be prompted to select the audio files you wish to analyze. You can select one file or multiple files for batch processing.
 5. Wait for proccessing
 6. A tab-delimited text file will be printed containing the analysis of acoustic onsets
-
 
 NOTES, CITATIONS, AND COPYRIGHT NOTICE FOR YIN:
 The yin folder contained here was downloaded from http://audition.ens.fr/adc/sw/yin.zip. Yin is a popular F0 estimation algorithm developed by Alain de Cheveigne. The paper on yin, published in JASA (2002), can be downloaded here: audition.ens.fr/adc/pdf/2002_JASA_YIN.pdf
